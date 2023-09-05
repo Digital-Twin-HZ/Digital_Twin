@@ -1,0 +1,2 @@
+# Degital_Twin
+Create a digital twin which dynamically models the processes within the Waste Water Treatment Plant, with the purpose of being able to run the WWTP smoothly and more efficiently, but more importantly anticipate unforeseen circumstances.
