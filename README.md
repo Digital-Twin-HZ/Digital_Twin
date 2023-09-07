@@ -3,3 +3,4 @@ Create a digital twin which dynamically models the processes within the Waste Wa
 
 ## Dev Info
 * any file placed inside a folder named 'data' at root will never be pushed
+* a python virtual environment is advised to be created as: ``python -m venv venv``, since folder 'venv' is gitignored
