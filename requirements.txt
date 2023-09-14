@@ -1,3 +1,6 @@
 pandas
 ipykernel
 fastparquet
+matplotlib
+plotly
+nbformat
