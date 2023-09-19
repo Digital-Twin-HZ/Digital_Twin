@@ -4,3 +4,4 @@ fastparquet
 matplotlib
 plotly
 nbformat
+seaborn
