@@ -4,3 +4,6 @@ fastparquet
 matplotlib
 plotly
 nbformat
+statsmodels
+scikit-learn
+pmdarima
