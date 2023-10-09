@@ -7,3 +7,5 @@ nbformat
 statsmodels
 scikit-learn
 pmdarima
+tensorflow
+joblib
