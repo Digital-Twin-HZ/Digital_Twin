@@ -7,5 +7,9 @@ nbformat
 statsmodels
 scikit-learn
 pmdarima
-tensorflow
+scikeras[tensorflow]
 joblib
+python-dotenv
+gradio
+seaborn
+autots
