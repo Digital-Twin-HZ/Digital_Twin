@@ -6,3 +6,8 @@ plotly
 nbformat
 seaborn
 sklearn
+statsmodels
+scikit-learn
+pmdarima
+tensorflow
+joblib
